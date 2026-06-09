@@ -1,0 +1,7 @@
+﻿| DGFAB360 | Graphic Tee     | Tops        |      49.95 |
+| DGFAB412 | Oxford Shirt    | Tops        |      79.95 |
+| DGFAB527 | A-Line Dress    | Dresses     |      99.95 |
+| DGFAB531 | Wrap Dress      | Dresses     |     119.95 |
+| DGFAB648 | Denim Jacket    | Outerwear   |     149.95 |
+| DGFAB109 | Patterned Socks | Accessories |      19.95 |
+| DGFAB215 | Leather Belt    | Accessories |      39.95 |

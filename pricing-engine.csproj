@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>pricing_engine</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <DefaultItemExcludes>$(DefaultItemExcludes);pricing_engine.Tests\**</DefaultItemExcludes>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="xunit.assert" Version="2.9.3"/>
+        <PackageReference Include="xunit.extensibility.core" Version="2.9.3"/>
+        <EmbeddedResource Remove="pricing_engine.Tests\**\*"/>
+    </ItemGroup>
+
+</Project>
