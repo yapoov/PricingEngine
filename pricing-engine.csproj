@@ -10,9 +10,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="xunit.assert" Version="2.9.3"/>
-        <PackageReference Include="xunit.extensibility.core" Version="2.9.3"/>
-        <EmbeddedResource Remove="pricing_engine.Tests\**\*"/>
+        <PackageReference Include="xunit.assert" Version="2.9.3" />
+        <PackageReference Include="xunit.extensibility.core" Version="2.9.3" />
+        <EmbeddedResource Remove="pricing_engine.Tests\**\*" />
     </ItemGroup>
 
 </Project>
